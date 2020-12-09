@@ -4,6 +4,12 @@ using UnityEngine;
 using UnityEngine.AI;
 using UnityStandardAssets.Characters.ThirdPerson;
 
+/*
+ * Sam Ferstein
+ * Assignment 9
+ * This controls the player movement and animations
+ */
+
 public class PlayerController : MonoBehaviour
 {
     public Camera cam;

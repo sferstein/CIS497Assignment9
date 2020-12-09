@@ -4,6 +4,12 @@ using UnityEngine;
 using UnityEngine.AI;
 using UnityStandardAssets.Characters.ThirdPerson;
 
+/*
+ * Sam Ferstein
+ * Assignment 9
+ * This controls the enemy AI
+ */
+
 public class EnemyAI : MonoBehaviour
 {
     public Camera cam;

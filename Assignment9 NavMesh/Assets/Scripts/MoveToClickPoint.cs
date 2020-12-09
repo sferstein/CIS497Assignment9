@@ -3,6 +3,12 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.AI;
 
+/*
+ * Sam Ferstein
+ * Assignment 9
+ * This lets the player navigate the navmesh to move to where the mouse is clicked
+ */
+
 public class MoveToClickPoint : MonoBehaviour
 {
     public Camera cam;
